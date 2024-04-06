@@ -1,1 +1,1 @@
-# Simple-profile
+A simple portfolio using basics of bootstrap
