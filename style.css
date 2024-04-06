@@ -1,0 +1,84 @@
+.nav-link, .nav-link:active, .nav-link:visited {
+    color: black;
+}
+
+
+.nav-link:hover{
+    color: gold;
+}
+
+body{
+    background-color: #eeff1b;
+}
+
+.nav, .navbar-brand{
+    background-color: #eeff1b;
+}
+
+.block{
+    background-color: #f8f9fa;
+    text-align: center;
+    border: 7px inset #efcc00;
+}
+
+.duck2{
+    padding-top: 15px;
+    
+}
+
+.duck1{
+    padding-bottom: 15px ;
+}
+.duck2 > *{
+    text-align: end;
+    
+}
+img{
+    border: 10px double #efcc00;
+}
+
+p{
+    border: 10px soild #efcc00;
+
+}
+
+li{
+    font-size: large;
+}
+
+.tit{
+    font-weight: bold;
+    font-size: large;
+}
+
+li:hover{
+    color: gold;
+}
+
+#hobby{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.block2{
+    text-decoration: underline;
+    text-decoration-color: gold;
+}
+
+hr{
+    border: 5px solid black;
+}
+
+#work, #edu {
+    text-align: center;
+}
+
+a{
+    color: black;
+}
+
+a:hover, a:visited{
+    color: rgb(169, 150, 37);
+}
